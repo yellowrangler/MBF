@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		58A05BB718A554A800EF18AF /* MBFPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = 58A05BB618A554A800EF18AF /* MBFPuppy.m */; };
+		58A05BB918A67F7800EF18AF /* portugesewaterdogpuppy.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 58A05BB818A67F7800EF18AF /* portugesewaterdogpuppy.jpeg */; };
+		58C43F7518A5342B00454A08 /* blacklab.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 58C43F7218A5342B00454A08 /* blacklab.jpeg */; };
+		58C43F7618A5342B00454A08 /* bordercollie.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 58C43F7318A5342B00454A08 /* bordercollie.jpeg */; };
+		58C43F7718A5342B00454A08 /* jackrussel.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 58C43F7418A5342B00454A08 /* jackrussel.jpeg */; };
 		58D0EF3018A43C35002423A8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58D0EF2F18A43C35002423A8 /* Foundation.framework */; };
 		58D0EF3218A43C35002423A8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58D0EF3118A43C35002423A8 /* CoreGraphics.framework */; };
 		58D0EF3418A43C35002423A8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58D0EF3318A43C35002423A8 /* UIKit.framework */; };
@@ -21,6 +26,7 @@
 		58D0EF5118A43C35002423A8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58D0EF3318A43C35002423A8 /* UIKit.framework */; };
 		58D0EF5918A43C35002423A8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 58D0EF5718A43C35002423A8 /* InfoPlist.strings */; };
 		58D0EF5B18A43C35002423A8 /* Man_s_Best_FriendTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 58D0EF5A18A43C35002423A8 /* Man_s_Best_FriendTests.m */; };
+		58D0EF6618A43DE1002423A8 /* MBFDog.m in Sources */ = {isa = PBXBuildFile; fileRef = 58D0EF6518A43DE1002423A8 /* MBFDog.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +40,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		58A05BB518A554A800EF18AF /* MBFPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBFPuppy.h; sourceTree = "<group>"; };
+		58A05BB618A554A800EF18AF /* MBFPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBFPuppy.m; sourceTree = "<group>"; };
+		58A05BB818A67F7800EF18AF /* portugesewaterdogpuppy.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = portugesewaterdogpuppy.jpeg; sourceTree = "<group>"; };
+		58C43F7218A5342B00454A08 /* blacklab.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blacklab.jpeg; sourceTree = "<group>"; };
+		58C43F7318A5342B00454A08 /* bordercollie.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bordercollie.jpeg; sourceTree = "<group>"; };
+		58C43F7418A5342B00454A08 /* jackrussel.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jackrussel.jpeg; sourceTree = "<group>"; };
 		58D0EF2C18A43C35002423A8 /* Man's Best Friend.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Man's Best Friend.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		58D0EF2F18A43C35002423A8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		58D0EF3118A43C35002423A8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +65,8 @@
 		58D0EF5618A43C35002423A8 /* Man's Best FriendTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Man's Best FriendTests-Info.plist"; sourceTree = "<group>"; };
 		58D0EF5818A43C35002423A8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		58D0EF5A18A43C35002423A8 /* Man_s_Best_FriendTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Man_s_Best_FriendTests.m; sourceTree = "<group>"; };
+		58D0EF6418A43DE1002423A8 /* MBFDog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MBFDog.h; path = ../MBFDog.h; sourceTree = "<group>"; };
+		58D0EF6518A43DE1002423A8 /* MBFDog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MBFDog.m; path = ../MBFDog.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +93,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		58A05CFD18AA71FB00EF18AF /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				58D0EF6418A43DE1002423A8 /* MBFDog.h */,
+				58D0EF6518A43DE1002423A8 /* MBFDog.m */,
+				58A05BB518A554A800EF18AF /* MBFPuppy.h */,
+				58A05BB618A554A800EF18AF /* MBFPuppy.m */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
 		58D0EF2318A43C35002423A8 = {
 			isa = PBXGroup;
 			children = (
@@ -117,6 +142,7 @@
 				58D0EF4118A43C35002423A8 /* Main.storyboard */,
 				58D0EF4418A43C35002423A8 /* MBFViewController.h */,
 				58D0EF4518A43C35002423A8 /* MBFViewController.m */,
+				58A05CFD18AA71FB00EF18AF /* Models */,
 				58D0EF4718A43C35002423A8 /* Images.xcassets */,
 				58D0EF3618A43C35002423A8 /* Supporting Files */,
 			);
@@ -126,6 +152,10 @@
 		58D0EF3618A43C35002423A8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				58A05BB818A67F7800EF18AF /* portugesewaterdogpuppy.jpeg */,
+				58C43F7218A5342B00454A08 /* blacklab.jpeg */,
+				58C43F7318A5342B00454A08 /* bordercollie.jpeg */,
+				58C43F7418A5342B00454A08 /* jackrussel.jpeg */,
 				58D0EF3718A43C35002423A8 /* Man's Best Friend-Info.plist */,
 				58D0EF3818A43C35002423A8 /* InfoPlist.strings */,
 				58D0EF3B18A43C35002423A8 /* main.m */,
@@ -230,8 +260,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				58D0EF4818A43C35002423A8 /* Images.xcassets in Resources */,
+				58C43F7518A5342B00454A08 /* blacklab.jpeg in Resources */,
+				58C43F7718A5342B00454A08 /* jackrussel.jpeg in Resources */,
+				58A05BB918A67F7800EF18AF /* portugesewaterdogpuppy.jpeg in Resources */,
 				58D0EF3A18A43C35002423A8 /* InfoPlist.strings in Resources */,
 				58D0EF4318A43C35002423A8 /* Main.storyboard in Resources */,
+				58C43F7618A5342B00454A08 /* bordercollie.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,7 +286,9 @@
 			files = (
 				58D0EF4018A43C35002423A8 /* MBFAppDelegate.m in Sources */,
 				58D0EF4618A43C35002423A8 /* MBFViewController.m in Sources */,
+				58D0EF6618A43DE1002423A8 /* MBFDog.m in Sources */,
 				58D0EF3C18A43C35002423A8 /* main.m in Sources */,
+				58A05BB718A554A800EF18AF /* MBFPuppy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -383,6 +419,7 @@
 				GCC_PREFIX_HEADER = "Man's Best Friend/Man's Best Friend-Prefix.pch";
 				INFOPLIST_FILE = "Man's Best Friend/Man's Best Friend-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -396,6 +433,7 @@
 				GCC_PREFIX_HEADER = "Man's Best Friend/Man's Best Friend-Prefix.pch";
 				INFOPLIST_FILE = "Man's Best Friend/Man's Best Friend-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -461,6 +499,7 @@
 				58D0EF6018A43C35002423A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		58D0EF6118A43C35002423A8 /* Build configuration list for PBXNativeTarget "Man's Best FriendTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +508,7 @@
 				58D0EF6318A43C35002423A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
